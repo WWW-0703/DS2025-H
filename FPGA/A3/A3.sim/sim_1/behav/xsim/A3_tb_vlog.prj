@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../A3.srcs/sources_1/ip/clk_wiz_0" \
+"../../../../A3.srcs/sources_1/ip/ila_0/sim/ila_0.v" \
+"../../../../A3.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v" \
+"../../../../A3.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v" \
+"../../../../A3.srcs/sources_1/ip/ram_16x256/sim/ram_16x256.v" \
+"../../../../A3.srcs/sources_1/ip/rom_28x2500/sim/rom_28x2500.v" \
+"../../../../A3.srcs/sources_1/new/A3.v" \
+"../../../../A3.srcs/sources_1/new/DDS.v" \
+"../../../../A3.srcs/sources_1/new/SPI2.v" \
+"../../../../A3.srcs/sources_1/new/freq_rom.v" \
+"../../../../A3.srcs/sources_1/new/rom_sin.v" \
+"../../../../A3.srcs/sources_1/new/rx_ctrl.v" \
+"../../../../A3.srcs/sim_1/new/A3_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

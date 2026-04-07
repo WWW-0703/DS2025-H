@@ -1,0 +1,145 @@
+/*
+
+Xilinx Vivado v2018.3 (64-bit) [Major: 2018, Minor: 3]
+SW Build: 2405991 on Thu Dec  6 23:38:27 MST 2018
+IP Build: 2404404 on Fri Dec  7 01:43:56 MST 2018
+
+Process ID (PID): 10716
+License: Customer
+
+Current time: 	Sat Mar 21 11:16:24 CST 2026
+Time zone: 	China Standard Time (Asia/Shanghai)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 32
+
+Screen size: 2560x1600
+Screen resolution (DPI): 144
+Available screens: 1
+Available disk space: 209 GB
+Default font: family=Dialog,name=Dialog,style=plain,size=18
+
+Java version: 	9.0.4 64-bit
+Java home: 	E:/APP/ZYNQ_soft/Vivado/Vivado/2018.3/tps/win64/jre9.0.4
+Java executable location: 	E:/APP/ZYNQ_soft/Vivado/Vivado/2018.3/tps/win64/jre9.0.4/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	WWW
+User home directory: C:/Users/WWW
+User working directory: E:/WWW/电赛/2025电赛/Xilinx_FPGA/Project/A3
+User country: 	CN
+User language: 	zh
+User locale: 	zh_CN
+
+RDI_BASEROOT: E:/APP/ZYNQ_soft/Vivado/Vivado
+HDI_APPROOT: E:/APP/ZYNQ_soft/Vivado/Vivado/2018.3
+RDI_DATADIR: E:/APP/ZYNQ_soft/Vivado/Vivado/2018.3/data
+RDI_BINDIR: E:/APP/ZYNQ_soft/Vivado/Vivado/2018.3/bin
+
+Vivado preferences file location: C:/Users/WWW/AppData/Roaming/Xilinx/Vivado/2018.3/vivado.xml
+Vivado preferences directory: C:/Users/WWW/AppData/Roaming/Xilinx/Vivado/2018.3/
+Vivado layouts directory: C:/Users/WWW/AppData/Roaming/Xilinx/Vivado/2018.3/layouts
+PlanAhead jar file location: 	E:/APP/ZYNQ_soft/Vivado/Vivado/2018.3/lib/classes/planAhead.jar
+Vivado log file location: 	E:/WWW/电赛/2025电赛/Xilinx_FPGA/Project/A3/vivado.log
+Vivado journal file location: 	E:/WWW/电赛/2025电赛/Xilinx_FPGA/Project/A3/vivado.jou
+Engine tmp dir: 	E:/WWW/电赛/2025电赛/Xilinx_FPGA/Project/A3/.Xil/Vivado-10716-LAPTOP-VNJMT316
+
+Xilinx Environment Variables
+----------------------------
+XILINX: E:/APP/ZYNQ_soft/Vivado/Vivado/2018.3/ids_lite/ISE
+XILINX_DSP: E:/APP/ZYNQ_soft/Vivado/Vivado/2018.3/ids_lite/ISE
+XILINX_PLANAHEAD: E:/APP/ZYNQ_soft/Vivado/Vivado/2018.3
+XILINX_SDK: E:/APP/ZYNQ_soft/Vivado/SDK/2018.3
+XILINX_VIVADO: E:/APP/ZYNQ_soft/Vivado/Vivado/2018.3
+XILINX_VIVADO_HLS: E:/APP/ZYNQ_soft/Vivado/Vivado/2018.3
+
+
+GUI allocated memory:	194 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 936 MB
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// TclEventType: PROJECT_OPEN_DIALOG
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// [GUI Memory]: 88 MB (+90036kb) [00:00:03]
+// [Engine Memory]: 607 MB (+484841kb) [00:00:03]
+// bx (cp):  Open Project : addNotify
+// Opening Vivado Project: E:\WWW\电赛\2025电赛\Xilinx_FPGA\Project\A3\A3.xpr. Version: Vivado v2018.3 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project E:/WWW/电赛/2025电赛/Xilinx_FPGA/Project/A3/A3.xpr 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILESET_TARGET_UCF_CHANGE
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: FILESET_TARGET_UCF_CHANGE
+// TclEventType: RUN_COMPLETED
+// TclEventType: FILESET_TARGET_UCF_CHANGE
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 99 MB (+6165kb) [00:00:06]
+// [Engine Memory]: 826 MB (+197935kb) [00:00:06]
+// [GUI Memory]: 124 MB (+21021kb) [00:00:06]
+// [Engine Memory]: 895 MB (+28717kb) [00:00:07]
+// WARNING: HEventQueue.dispatchEvent() is taking  1896 ms.
+// Tcl Message: open_project E:/WWW/电赛/2025电赛/Xilinx_FPGA/Project/A3/A3.xpr 
+// Tcl Message: INFO: [Project 1-313] Project file moved from 'C:/Users/WWW/Desktop/Xilinx_FPGA/Project/A3' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/APP/ZYNQ_soft/Vivado/Vivado/2018.3/data/ip'. 
+// HMemoryUtils.trashcanNow. Engine heap size: 1,043 MB. GUI used memory: 66 MB. Current time: 3/21/26, 11:16:25 AM CST
+// Project name: A3; location: E:/WWW/电赛/2025电赛/Xilinx_FPGA/Project/A3; part: xc7z020clg400-2
+// [Engine Memory]: 1,043 MB (+108272kb) [00:00:08]
+dismissDialog("Open Project"); // bx (cp)
+// Tcl Message: update_compile_order -fileset sources_1 
+// Elapsed time: 122 seconds
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, A3 (A3.v)]", 1, true); // B (D, cp) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, A3 (A3.v)]", 1, true); // B (D, cp) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, A3 (A3.v), spi2_inst : SPI2 (SPI2.v)]", 2, false, false, false, false, false, true); // B (D, cp) - Double Click
+selectCodeEditor("A3.v", 92, 704); // cl (w, cp)
+selectCodeEditor("A3.v", 34, 724); // cl (w, cp)
+selectCodeEditor("A3.v", 40, 283, false, false, false, true, false); // cl (w, cp) - Popup Trigger
+selectMenuItem(RDIResource.HInputHandler_TOGGLE_LINE_COMMENTS, "Toggle Line Comments"); // af (al, Popup.HeavyWeightWindow)
+selectCodeEditor("A3.v", 594, 552); // cl (w, cp)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Tcl Message: update_compile_order -fileset sources_1 
+// [GUI Memory]: 130 MB (+165kb) [00:02:37]
+// Elapsed time: 11 seconds
+collapseTree(PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, "[, RTL Analysis, Open Elaborated Design]", 12); // u (Q, cp)
+expandTree(PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, "[, RTL Analysis, Open Elaborated Design]", 12); // u (Q, cp)
+selectTree(PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, "[, RTL Analysis, Open Elaborated Design, Schematic]", 15, false); // u (Q, cp)
+// A (cp): Elaborate Design: addNotify
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a (A)
+// bx (cp):  Open Elaborated Design : addNotify
+dismissDialog("Elaborate Design"); // A (cp)
+// TclEventType: ELABORATE_START
+// Tcl Message: synth_design -rtl -name rtl_1 
+// Tcl Message: Command: synth_design -rtl -name rtl_1 Starting synth_design Using part: xc7z020clg400-2 Top: A3 
+selectButton(RDIResource.ProgressDialog_BACKGROUND, "Background"); // a (bx)
+// [Engine Memory]: 1,235 MB (+146567kb) [00:02:47]
+// HMemoryUtils.trashcanNow. Engine heap size: 1,235 MB. GUI used memory: 70 MB. Current time: 3/21/26, 11:19:05 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 1,296 MB. GUI used memory: 70 MB. Current time: 3/21/26, 11:19:20 AM CST

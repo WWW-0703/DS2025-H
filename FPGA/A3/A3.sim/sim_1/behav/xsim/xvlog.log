@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/WWW/Desktop/Xilinx_FPGA/Project/A3/A3.srcs/sources_1/ip/ila_0/sim/ila_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ila_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/WWW/Desktop/Xilinx_FPGA/Project/A3/A3.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/WWW/Desktop/Xilinx_FPGA/Project/A3/A3.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/WWW/Desktop/Xilinx_FPGA/Project/A3/A3.srcs/sources_1/ip/ram_16x256/sim/ram_16x256.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ram_16x256
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/WWW/Desktop/Xilinx_FPGA/Project/A3/A3.srcs/sources_1/ip/rom_28x2500/sim/rom_28x2500.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rom_28x2500
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/WWW/Desktop/Xilinx_FPGA/Project/A3/A3.srcs/sources_1/new/A3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module A3
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/WWW/Desktop/Xilinx_FPGA/Project/A3/A3.srcs/sources_1/new/DDS.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DDS
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/WWW/Desktop/Xilinx_FPGA/Project/A3/A3.srcs/sources_1/new/SPI2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SPI2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/WWW/Desktop/Xilinx_FPGA/Project/A3/A3.srcs/sources_1/new/freq_rom.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module freq_rom
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/WWW/Desktop/Xilinx_FPGA/Project/A3/A3.srcs/sources_1/new/rom_sin.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rom_sin
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/WWW/Desktop/Xilinx_FPGA/Project/A3/A3.srcs/sources_1/new/rx_ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rx_ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/WWW/Desktop/Xilinx_FPGA/Project/A3/A3.srcs/sim_1/new/A3_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module A3_tb

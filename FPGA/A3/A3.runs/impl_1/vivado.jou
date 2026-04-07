@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sat Aug  2 10:37:15 2025
+# Process ID: 34876
+# Current directory: C:/Users/WWW/Desktop/Xilinx_FPGA/Project/A3/A3.runs/impl_1
+# Command line: vivado.exe -log A3.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source A3.tcl -notrace
+# Log file: C:/Users/WWW/Desktop/Xilinx_FPGA/Project/A3/A3.runs/impl_1/A3.vdi
+# Journal file: C:/Users/WWW/Desktop/Xilinx_FPGA/Project/A3/A3.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source A3.tcl -notrace
